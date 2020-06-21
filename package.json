@@ -1,0 +1,20 @@
+{
+  "name": "nextmusicplayer",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Next Powered Music Player",
+  "repository": "https://github.com/Madhu5A3/nextMusicPlayer.git",
+  "author": "MMK",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "mongoose": "^5.9.19",
+    "next": "9.4.4",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
+  }
+}
