@@ -6,6 +6,9 @@
   "repository": "https://github.com/Madhu5A3/nextMusicPlayer.git",
   "author": "MMK",
   "license": "MIT",
+  "resolutions": {
+    "styled-components": "^5"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -15,6 +18,8 @@
     "mongoose": "^5.9.19",
     "next": "9.4.4",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "semantic-ui-react": "^0.88.2",
+    "styled-components": "^5.1.1"
   }
 }
